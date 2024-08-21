@@ -12,8 +12,8 @@ This is a simple full-stack web application built using React for the frontend a
 ## Preview
 ![Home Page Screenshot](/frontend/src/ss1.png)
 ![Add New User Screenshot](/frontend/src/ss2.png)
-![New User Added Successfully](./frontend/src/assets/ss3.png)
-![Updated Database](./frontend/src/assets/ss4.png)
+![New User Added Successfully](/frontend/src/ss3.png)
+![Updated Database](/frontend/src/ss4.png)
 
 ## Project Structure
 
